@@ -1,0 +1,17 @@
+References
+
+Documentation:
+https://docs.python.org/2/library/xml.etree.elementtree.html#xml.etree.ElementTree.iterparse
+https://docs.python.org/2/library/re.html
+https://docs.python.org/2/library/string.html
+http://effbot.org/zone/element-index.htm
+https://docs.mongodb.org/v3.0/reference/
+
+
+
+Discussion:
+http://stackoverflow.com/questions/18796280/set-attribute-to-element-in-python
+http://stackoverflow.com/questions/4788633/insert-a-node-for-an-element-in-xml-with-python-elementtree
+https://discussions.udacity.com/t/importing-the-clean-json-file-into-a-mongodb-database/16712
+https://discussions.udacity.com/t/error-in-distinct-query-in-mongodb/32590/7
+http://stackoverflow.com/questions/16772071/sort-dict-by-value-python
